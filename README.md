@@ -11,5 +11,5 @@ support ssl
 
 ### References
 
-1. https://blog.csdn.net/gmq_syy/article/details/80150018
-1. https://github.com/haakonnessjoen/MAC-Telnet
+1. https://blog.csdn.net/gmq_syy/article/details/80150018 -- c websocket code
+1. https://github.com/haakonnessjoen/MAC-Telnet -- MAC-Telnet for Posix systems
