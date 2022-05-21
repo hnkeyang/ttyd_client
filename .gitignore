@@ -1,0 +1,3 @@
+ttyd_client
+*.o
+*.log
